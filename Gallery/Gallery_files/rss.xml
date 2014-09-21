@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:iphoto="urn:iphoto:property" xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>   Gallery</title>
+    <link>http://www.annhallrichards.com/www.annhallrichards.com/Gallery/Gallery.html</link>
+    <description>   Gallery</description>
+    <item>
+      <title>BMCA exhibition</title>
+      <link>http://www.annhallrichards.com/www.annhallrichards.com/Gallery/Pages/BMCA_exhibition.html</link>
+      <guid isPermaLink="false">97764065-9573-453c-8aa0-4d4a69f2f52c</guid>
+    </item>
+    <item>
+      <title> Fiber Art Works</title>
+      <link>http://www.annhallrichards.com/www.annhallrichards.com/Gallery/Pages/Fiber_Art_Works.html</link>
+      <guid isPermaLink="false">29bcbc7b-e50b-4ec2-bc67-1eb71da8c1c0</guid>
+    </item>
+    <item>
+      <title>Lighting @ Cafe Maude</title>
+      <link>http://www.annhallrichards.com/www.annhallrichards.com/Gallery/Pages/Lighting_%40_Cafe_Maude.html</link>
+      <guid isPermaLink="false">906a5024-85df-45b1-bf79-97dc4c8e67d6</guid>
+    </item>
+    <item>
+      <title>Armatage Room lighitng G. Heinrich photos</title>
+      <link>http://www.annhallrichards.com/www.annhallrichards.com/Gallery/Pages/Armatage_Room_lighitng_G._Heinrich_photos.html</link>
+      <guid isPermaLink="false">8581b7af-d8b0-43ca-bff1-ee4926c3cedb</guid>
+    </item>
+  </channel>
+</rss>

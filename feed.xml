@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <id>urn:iweb:87675D2F-9872-4867-8BE6-47E71B8DDD30</id>
+ <title>Page list Atom feed</title>
+ <updated>2012-12-25T13:08:39-06:00</updated>
+ <link rel="self" href="feed.xml"/>
+ <generator>iWeb</generator>
+ <author>
+  <name>iWeb</name>
+ </author>
+ <entry>
+  <id>urn:iweb:E5FB52AB-E513-4050-B52D-898F1C1EB135</id>
+  <title>Biography</title>
+  <title xmlns="urn:iweb:">Biography</title>
+  <in-navbar xmlns="urn:iweb:">E5FB52AB-E513-4050-B52D-898F1C1EB135</in-navbar>
+  <link rel="alternate" href="Biography.html"/>
+  <updated>2012-12-25T13:08:39.001-06:00</updated>
+  <content>Biography</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:D29928EC-BF6F-4582-80B8-010CF63FB66C</id>
+  <title>Gallery </title>
+  <title xmlns="urn:iweb:">Gallery </title>
+  <in-navbar xmlns="urn:iweb:">D29928EC-BF6F-4582-80B8-010CF63FB66C</in-navbar>
+  <link rel="alternate" href="Gallery/Gallery.html"/>
+  <updated>2012-12-25T13:08:39.002-06:00</updated>
+  <content>Gallery </content>
+ </entry>
+ <entry>
+  <id>urn:iweb:627A1F93-177E-48FC-A70E-44FD37208627</id>
+  <title>Resume </title>
+  <title xmlns="urn:iweb:">Resume </title>
+  <in-navbar xmlns="urn:iweb:">627A1F93-177E-48FC-A70E-44FD37208627</in-navbar>
+  <link rel="alternate" href="Resume.html"/>
+  <updated>2012-12-25T13:08:39.003-06:00</updated>
+  <content>Resume </content>
+ </entry>
+ <entry>
+  <id>urn:iweb:DC6E2071-2F35-4B4A-864F-CB53CC067BB7</id>
+  <title>Artist Statement</title>
+  <title xmlns="urn:iweb:">Artist Statement</title>
+  <in-navbar xmlns="urn:iweb:">DC6E2071-2F35-4B4A-864F-CB53CC067BB7</in-navbar>
+  <link rel="alternate" href="Artist_Statement.html"/>
+  <updated>2012-12-25T13:08:39.004-06:00</updated>
+  <content>Artist Statement</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:D044DE77-7EE2-4946-85C4-6185EAA201B5</id>
+  <title>Contact</title>
+  <title xmlns="urn:iweb:">Contact</title>
+  <in-navbar xmlns="urn:iweb:">D044DE77-7EE2-4946-85C4-6185EAA201B5</in-navbar>
+  <link rel="alternate" href="Contact.html"/>
+  <updated>2012-12-25T13:08:39.005-06:00</updated>
+  <content>Contact</content>
+ </entry>
+</feed>
